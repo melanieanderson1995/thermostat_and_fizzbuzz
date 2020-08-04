@@ -1,0 +1,36 @@
+body {
+  font-family: helvetica;
+  text-align: center;
+  color: black;
+  background-color: ivory;
+  border: 5px solid black;
+}
+
+h1 {
+  background-color: skyblue;
+  border: 3px solid darkgrey;
+}
+
+.low-usage {
+  color: green;
+}
+
+.medium-usage {
+  color: black;
+}
+
+.high-usage {
+  color: red;
+}
+
+.true {
+  color: green;
+  background-color: skyblue;
+  border: 3px solid darkgrey;
+}
+
+.false {
+  color: red;
+  background-color: skyblue;
+  border: 3px solid darkgrey;
+}
